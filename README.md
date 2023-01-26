@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi I'm Ido👋
+
+# Top Lanuages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ido-nasi&theme=radical&layout=compact)](https://github.com/ido-nasi/github-readme-stats)
+
+## My Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=ido-nasi&show_icons=true&theme=gotham&&count_private=true&include_all_commits=true"/>
+
+<a><h2>🏆 Github Profile Trophy</h2></a>
+<a>
+  <img width=1400 src="https://github-profile-trophy.vercel.app/?username=ido-nasi&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+
+## Number Of Visitors 
+![Visitor Count](https://profile-counter.glitch.me/ido-nasi/count.svg)
 
 <!--
 **ido-nasi/ido-nasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
