@@ -13,9 +13,6 @@
   <img width=1400 src="https://github-profile-trophy.vercel.app/?username=ido-nasi&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
-## Number Of Visitors 
-![Visitor Count](https://profile-counter.glitch.me/ido-nasi/count.svg)
-
 <!--
 **ido-nasi/ido-nasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
