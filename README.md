@@ -2,7 +2,7 @@
 
 # Top Lanuages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ido-nasi&theme=radical&layout=compact)](https://github.com/ido-nasi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ido-nasi&theme=radical&layout=compact&count-private=true)](https://github.com/ido-nasi/github-readme-stats)
 
 ## My Github Stats
 
